@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning from the odin project~
 - 📫 How to reach me:
 
-Email: mohammed.mkhu@gmail.com
-LinkedIn: https://www.linkedin.com/in/mohammedkhuraishi/
+    Email: mohammed.mkhu@gmail.com
+
+    LinkedIn: https://www.linkedin.com/in/mohammedkhuraishi/
